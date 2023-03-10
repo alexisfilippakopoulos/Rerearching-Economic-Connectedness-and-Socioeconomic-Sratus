@@ -1,4 +1,4 @@
-# Rerearching-Economic-Connectedness-and-Socioeconomic-Sratus
+# Rerearching-Economic-Connectedness-and-Socioeconomic-Status
 
 Partly replicating two studies carried out on social capital. The studies appeared in the journal Nature:
 ---
